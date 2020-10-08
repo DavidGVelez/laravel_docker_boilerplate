@@ -1,1 +1,1 @@
-# laravel_docker_boilerplate
+# Docker Laravel Boilerplate
