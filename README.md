@@ -2,6 +2,10 @@
 
 ## How to:
 
+### copy .env.example and rename it to .env
+
+`cp .env.example .env`
+
 ### Run & install containers
 
 `docker-compose up -d`
